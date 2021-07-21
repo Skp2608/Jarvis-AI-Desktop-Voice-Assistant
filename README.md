@@ -147,4 +147,4 @@ Many people will argue that the virtual assistant that we have created is not an
 It is a fact that our virtual assistant is not a very good example of A.I., but it is an A.I.!
 
 ## The E.N.D.
-With this, you have successfully made your very first virtual assistant. I hope you all have liked this tutorial.
+With this, you have successfully made your very first virtual assistant. I hope you all have liked this.
